@@ -4,7 +4,7 @@
 
 UTP_PickUpComponent::UTP_PickUpComponent()
 {
-	// Setup the Sphere Collision
+	// Set up the Sphere Collision
 	SphereRadius = 32.f;
 }
 
